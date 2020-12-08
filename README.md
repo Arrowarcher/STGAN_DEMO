@@ -1,4 +1,4 @@
-## 圆秃头梦
+## PaddlePaddle之STGAN的应用：秃头生成
 最近一部电视剧《隐秘的角落》在网上引起了众多讨论，要说这是2020年全网热度最高的电视剧也不为过。而剧中反派Boss张东升也是网友讨论的话题之一，特别是他的秃头特点，已经成为一个梗了。
 <p align="center">
 <img src="https://ai-studio-static-online.cdn.bcebos.com/dd9378c304ba4069906566ba95afd2264a3629bb8de94226a2ce3139215dc957" width=500 /> <br />
