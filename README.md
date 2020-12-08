@@ -1,0 +1,2 @@
+# STGAN_DEMO
+基于paddlepaddle实现的STGAN的小demo，可以进行秃头生成
